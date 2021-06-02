@@ -7,6 +7,10 @@ const p = document.getElementById('note');
 
 function calGst() {
     var bal = balance.value;
+    if(bal == '') {
+        p.innerHTML = "Please Enter Original Price";
+        return;
+    }
     var total = (gst.value/100) * bal;
     // console.log(total);
     const finalAmt = (bal*10+total*10)/10;
