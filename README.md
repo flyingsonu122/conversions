@@ -1,13 +1,13 @@
 # Metric Conversions
 
-[GST](https://flyingsonu122.github.io/CONVERSION/GST/index.html)
+[GST](https://flyingsonu122.github.io/conversions/GST/index.html)
 
 <br><br><br>
 
 
 **MIT &copy; [Sonu kumar kushwaha](https://github.com/flyingsonu122)**
 
-## Oh, Thanks!
+## Thanks!
 
 Thank you for being here! You can find my other projects **[here](https://github.com/flyingsonu122?tab=repositories)**.
 
